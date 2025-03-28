@@ -5,7 +5,7 @@ ipython
 isort
 jupyterlab
 lightgbm
-matplotlib.pyplot
+matplotlib
 mkdocs
 mlflow
 notebook
@@ -16,6 +16,4 @@ pytest
 python-dotenv
 scikit-learn
 shap
-streamlit
-streamlit-shap
 -e .
