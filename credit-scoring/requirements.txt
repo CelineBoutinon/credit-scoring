@@ -4,8 +4,10 @@ flake8
 ipython
 isort
 jupyterlab
-matplotlib
+lightgbm
+matplotlib.pyplot
 mkdocs
+mlflow
 notebook
 numpy
 pandas
@@ -13,4 +15,7 @@ pip
 pytest
 python-dotenv
 scikit-learn
+shap
+streamlit
+streamlit-shap
 -e .
