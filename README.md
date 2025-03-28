@@ -23,9 +23,11 @@ données provenant d'autres institutions financières, etc...). Il s'agira donc 
  à un chargé d’études de mieux comprendre le score attribué par le modèle et l'action qui
  lui est suggérée ("decline application" ou "grant loan");
 - Mettre en production le modèle de scoring de prédiction à l’aide d’une API dans le cloud et réaliser
-au prealable une interface locale de test de cette API;
-- Mettre en œuvre une approche globale MLOps de bout en bout, du tracking des expérimentations
+au préalable une interface locale de test de cette API;
+- Mettre en œuvre une approche MLOps end-to-end, du tracking des expérimentations
 à l’analyse en production du data drift.
+
+Les données brutes sont disponibles ici: https://www.kaggle.com/c/home-credit-default-risk/data
 
 ## Objectif du projet
 
@@ -88,13 +90,6 @@ au prealable une interface locale de test de cette API;
 ```
 
 --------
-
-
-## Compétences développées
-
-
-
-
 
 ## Requirements
 
