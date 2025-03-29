@@ -120,7 +120,8 @@ XGBoost= 2.1.4
 
 - **Local environment set-up**  
 Windows 11 professional  
-awscli 2.25.5  
+awscli 2.25.5
+boto3 1.37.22  
 black 25.1.0  
 cookiecutter 2.6.0  
 flake8 7.1.2  
