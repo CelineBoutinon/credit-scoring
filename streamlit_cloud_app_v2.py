@@ -106,7 +106,7 @@ def main():
 
         # Load the model (which includes the preprocessing pipeline)
         # model_uri = 'runs:/55c3ad49505d42f8b6d08af08975159b/final_scoring_model'
-        model_name = "final_scoring_model.joblib"
+        model_name = "final_model.joblib"
         # model = load_model(model_uri)
         model = load_model(model_name)
 
