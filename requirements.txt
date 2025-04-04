@@ -3,6 +3,7 @@ streamlit
 awscli
 black
 flake8
+imblearn
 ipython
 isort
 jupyterlab
