@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Projet realisé en mars 2025 dans le cadre de ma formation Data Scientist avec OpenClassrooms.
+Projet realisé en mars 2025 dans le cadre de ma formation Data Scientist avec CentraleSupélec/OpenClassrooms.
 
-## Contexte
+## Objectif du projet
 "Prêt à dépenser" est une société financière qui propose des crédits à la consommation pour
 des personnes ayant peu ou pas d'historique de prêt. L’entreprise souhaite mettre en œuvre
 un outil de “scoring crédit” pour calculer la probabilité qu’un client fasse défaut sur son crédit, 
@@ -39,6 +39,8 @@ Les données brutes sont disponibles ici: https://www.kaggle.com/c/home-credit-d
 - Concevoir un déploiement continu d'un moteur d’inférence sur une plateforme Cloud  
 
 ## Organisation du projet
+
+Pour le code de l'API et les tests, se référer au repo https://github.com/CelineBoutinon/credit-scoring-api.
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -128,3 +130,11 @@ flake8 7.1.2
 isort 6.0.1  
 jupyterlab 4.3.6  
 pytest 8.3.5  
+
+Voir requirements.txt pour la liste complète des librairies & packages.
+
+
+
+## MENTIONS LÉGALES
+
+Cette étude a été produite par CelineBoutinon sur la base du jeu de données Home Credit Default Risk sur Kaggle (https://www.kaggle.com/c/home-credit-default-risk/data). Le jeu de données est fourni « tel quel » et est hébergé sur Kaggle à des fins de recherche et d’éducation ; son utilisation est soumise aux conditions générales de Kaggle ainsi qu’aux termes disponibles sur https://www.kaggle.com/competitions/home-credit-default-risk/rules#7-competition-data. Les utilisateurs des données sont responsables de l’utilisation qu’ils en font et les analyses présentées ici restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://www.kaggle.com/terms et https://www.kaggle.com/docs/datasets#licensing.
