@@ -93,7 +93,7 @@ Pour le code de l'API et les tests, se référer au repo https://github.com/Celi
 
 --------
 
-## Requirements
+## Langages & software
 
 - **Data drift notebook**  
 python 3.10.7  
